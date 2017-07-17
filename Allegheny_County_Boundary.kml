@@ -8,12 +8,14 @@
 <Folder><name>OGRGeoJSON</name>
   <Style id="blue">
     <LineStyle>
-	  <color>ff0000ff</color>
+	  <color>ffff0000</color>
+	  <colorMode>normal</colorMode>
 	</LineStyle>
 	<PolyStyle>
-	  <color>ff0000ff</color>
+	  <color>7fff0000</color>
+	  <colorMode>normal</colorMode>
 	  <fill>1</fill>
-	  <outline>1</outline>
+	  <outline>0</outline>
 	</PolyStyle>
   </Style>
   <Placemark>
