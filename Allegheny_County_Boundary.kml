@@ -8,8 +8,14 @@
 </Schema>
 -->
 <!-- <Folder><name>OGRGeoJSON</name> -->
+  <Style id="blue">
+    <PolyStyle>
+	  <color>ffff0000</color>
+	  <width>2</width>
+	</PolyStyle>
+  </Style>
   <Placemark>
-	<Style><LineStyle><color>5014F000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <styleURL>#blue</styleURL>
 	<!-- <ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">1</SimpleData>
 		<SimpleData name="COUNTYFIPS">42003</SimpleData>
