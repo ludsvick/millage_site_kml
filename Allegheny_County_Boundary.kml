@@ -9,9 +9,9 @@
 -->
 <!-- <Folder><name>OGRGeoJSON</name> -->
   <Style id="blue">
-    <PolyStyle>
+    <LineStyle>
 	  <color>ffff0000</color>
-	</PolyStyle>
+	</LineStyle>
   </Style>
   <Placemark>
     <styleURL>#blue</styleURL>
