@@ -9,7 +9,7 @@
 -->
 <!-- <Folder><name>OGRGeoJSON</name> -->
   <Placemark>
-	<Style><LineStyle><color>ffff0000</color></LineStyle><PolyStyle><fill>.5</fill></PolyStyle></Style>
+	<Style><LineStyle><color>0000ff</color></LineStyle><PolyStyle><fill>.5</fill></PolyStyle></Style>
 	<!-- <ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">1</SimpleData>
 		<SimpleData name="COUNTYFIPS">42003</SimpleData>
