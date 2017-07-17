@@ -6,16 +6,16 @@
 	<description>Trying to see if the maps API takes the kml file in the first place</description>
 	
 	<Style id="blueBox">
-		<PolyStyle>
+		<LineStyle>
 			<color>ffff0000</color>
 			<width><2</width>
-		</PolyStyle>
+		</LineStyle>
 	</Style>
 		
 	<Placemark>
 		<name>Blue Polygon</name>
 		<styleUrl>#blueBox</styleUrl>
-		<Polygon>
+		<LineString>
 			<altitudeMode>relative</altitudeMode>
 				<coordinates>
 -80,40,0
@@ -23,7 +23,7 @@
 -81,41,0
 -81,40,0
 				</coordinates>
-		</Polygon>
+		</LineString>
 	</Placemark>
 	
 </Document>
