@@ -12,9 +12,14 @@
     <LineStyle>
 	  <color>ffff0000</color>
 	</LineStyle>
+	<PolyStyle>
+	  <color>ffff0000</color>
+	  <fill>1</fill>
+	  <outline>0</outline>
+	</PolyStyle>
   </Style>
   <Placemark>
-    <styleURL>#blue</styleURL>
+    <styleUrl>#blue</styleUrl>
 	<!-- <ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">1</SimpleData>
 		<SimpleData name="COUNTYFIPS">42003</SimpleData>
