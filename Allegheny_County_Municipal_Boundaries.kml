@@ -124,7 +124,7 @@
   </Placemark>
   <Placemark>
 	<name>HARMAR</name>
-	<Style><LineStyle><color>ffff0000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">8</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -149,7 +149,7 @@
   </Placemark>
   <Placemark>
 	<name>FOX CHAPEL</name>
-	<Style><LineStyle><color>ffff0000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">9</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
