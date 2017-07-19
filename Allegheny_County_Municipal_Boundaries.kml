@@ -30,7 +30,7 @@
 		<fill>1</fill>
 	</PolyStyle>
 	<BalloonStyle>
-		<text>$[place]: $[value]</text>
+		<text>$[place]: $[millage]</text>
 	</BalloonStyle>
 </Style>
 <Folder><name>OGRGeoJSON</name>
@@ -2176,7 +2176,7 @@
 		<Data name="place">
 			<value>Mount Lebanon</value>
 		</Data>
-		<Data name="value">
+		<Data name="millage">
 			<value>4.7100</value>
 		</Data>
 		<SchemaData schemaUrl="#OGRGeoJSON">
