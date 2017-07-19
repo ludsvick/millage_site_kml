@@ -21,6 +21,18 @@
 	<SimpleField name="YEARCONVERTED" type="int"></SimpleField>
 	<SimpleField name="GlobalID" type="string"></SimpleField>
 </Schema>
+<Style id="Municipality">
+	<LineStyle>
+		<color>ff0000ff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>7f0000ff</color>
+		<fill>1</fill>
+	</PolyStyle>
+	<BalloonStyle>
+		<text>$[place]</text>
+	</BalloonStyle>
+</Style>
 <Folder><name>OGRGeoJSON</name>
   <Placemark>
 	<name>CHESWICK</name>
@@ -2124,10 +2136,10 @@
   </Placemark>
   <Placemark>
 	<name>MOUNT LEBANON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
-		<Data name="Mount Lebanon Municipality">
-			<value>2</value>
+		<Data name="place">
+			<value>Mount Lebanon</value>
 		</Data>
 		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13871</SimpleData>
