@@ -2176,7 +2176,7 @@
 		<Data name="place">
 			<value>Mount Lebanon</value>
 		</Data>
-		<Data name="milalge">
+		<Data name="value">
 			<value>4.7100</value>
 		</Data>
 		<SchemaData schemaUrl="#OGRGeoJSON">
