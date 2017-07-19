@@ -30,14 +30,21 @@
 		<fill>1</fill>
 	</PolyStyle>
 	<BalloonStyle>
-		<text>$[place]</text>
+		<text>$[place]: $[value]</text>
 	</BalloonStyle>
 </Style>
 <Folder><name>OGRGeoJSON</name>
   <Placemark>
 	<name>CHESWICK</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
+		<Data name="place">
+			<value>Cheswick Borough</value>
+		</Data>
+		<Data name="millage">
+			<value>5.3500</value>
+		</Data>
+		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">1</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
 		<SimpleData name="LABEL">Cheswick Borough</SimpleData>
@@ -62,7 +69,14 @@
   <Placemark>
 	<name>EDGEWORTH</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
+		<Data name="place">
+			<value>Edgeworth Borough</value>
+		</Data>
+		<Data name="millage">
+			<value>4.1500</value>
+		</Data>
+		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
 		<SimpleData name="LABEL">Edgeworth Borough</SimpleData>
@@ -87,7 +101,14 @@
   <Placemark>
 	<name>SEWICKLEY</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
+		<Data name="place">
+			<value>Sewickley Borough</value>
+		</Data>
+		<Data name="millage">
+			<value>6.2500</value>
+		</Data>
+		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
 		<SimpleData name="LABEL">Sewickley Borough</SimpleData>
@@ -112,7 +133,14 @@
   <Placemark>
 	<name>SEWICKLEY HEIGHTS</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
+		<Data name="place">
+			<value>Sewickley Heights Borough</value>
+		</Data>
+		<Data name="millage">
+			<value>5.0000</value>
+		</Data>
+		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">6</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
 		<SimpleData name="LABEL">Sewickley Heights Borough</SimpleData>
@@ -137,7 +165,14 @@
   <Placemark>
 	<name>HARMAR</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
+		<Data name="place">
+			<value>Harmar Township</value>
+		</Data>
+		<Data name="millage">
+			<value>3.4500</value>
+		</Data>
+		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">8</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
 		<SimpleData name="LABEL">Harmar Township</SimpleData>
@@ -2140,6 +2175,9 @@
 	<ExtendedData>
 		<Data name="place">
 			<value>Mount Lebanon</value>
+		</Data>
+		<Data name="milalge">
+			<value>4.7100</value>
 		</Data>
 		<SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13871</SimpleData>
