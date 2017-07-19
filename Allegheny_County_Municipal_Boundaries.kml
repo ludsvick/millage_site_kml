@@ -36,7 +36,7 @@
 <Folder><name>OGRGeoJSON</name>
   <Placemark>
 	<name>CHESWICK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
 		<Data name="place">
 			<value>Cheswick Borough</value>
@@ -68,7 +68,7 @@
   </Placemark>
   <Placemark>
 	<name>EDGEWORTH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
 		<Data name="place">
 			<value>Edgeworth Borough</value>
@@ -100,7 +100,7 @@
   </Placemark>
   <Placemark>
 	<name>SEWICKLEY</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
 		<Data name="place">
 			<value>Sewickley Borough</value>
@@ -132,7 +132,7 @@
   </Placemark>
   <Placemark>
 	<name>SEWICKLEY HEIGHTS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
 		<Data name="place">
 			<value>Sewickley Heights Borough</value>
@@ -164,7 +164,7 @@
   </Placemark>
   <Placemark>
 	<name>HARMAR</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData>
 		<Data name="place">
 			<value>Harmar Township</value>
@@ -196,7 +196,7 @@
   </Placemark>
   <Placemark>
 	<name>FOX CHAPEL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">9</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -221,7 +221,7 @@
   </Placemark>
   <Placemark>
 	<name>FRANKLIN PARK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">12</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -246,7 +246,7 @@
   </Placemark>
   <Placemark>
 	<name>BELL ACRES</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -271,7 +271,7 @@
   </Placemark>
   <Placemark>
 	<name>LEET</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -296,7 +296,7 @@
   </Placemark>
   <Placemark>
 	<name>LEETSDALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">15</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -321,7 +321,7 @@
   </Placemark>
   <Placemark>
 	<name>SEWICKLEY HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">16</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -346,7 +346,7 @@
   </Placemark>
   <Placemark>
 	<name>OHIO</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">17</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -371,7 +371,7 @@
   </Placemark>
   <Placemark>
 	<name>RICHLAND</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">18</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -396,7 +396,7 @@
   </Placemark>
   <Placemark>
 	<name>MCCANDLESS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">19</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -421,7 +421,7 @@
   </Placemark>
   <Placemark>
 	<name>HAYSVILLE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">22</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -446,7 +446,7 @@
   </Placemark>
   <Placemark>
 	<name>FRAZER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">25</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -471,7 +471,7 @@
   </Placemark>
   <Placemark>
 	<name>FAWN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">26</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -496,7 +496,7 @@
   </Placemark>
   <Placemark>
 	<name>HARRISON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">27</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -521,7 +521,7 @@
   </Placemark>
   <Placemark>
 	<name>TARENTUM</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">28</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -546,7 +546,7 @@
   </Placemark>
   <Placemark>
 	<name>GLEN OSBORNE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">30</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -571,7 +571,7 @@
   </Placemark>
   <Placemark>
 	<name>EMSWORTH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -596,7 +596,7 @@
   </Placemark>
   <Placemark>
 	<name>GLENFIELD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">32</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -621,7 +621,7 @@
   </Placemark>
   <Placemark>
 	<name>AVALON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">34</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -646,7 +646,7 @@
   </Placemark>
   <Placemark>
 	<name>MILLVALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">35</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -671,7 +671,7 @@
   </Placemark>
   <Placemark>
 	<name>NEVILLE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">37</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -696,7 +696,7 @@
   </Placemark>
   <Placemark>
 	<name>BEN AVON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">38</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -721,7 +721,7 @@
   </Placemark>
   <Placemark>
 	<name>BEN AVON HEIGHTS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">39</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -746,7 +746,7 @@
   </Placemark>
   <Placemark>
 	<name>RESERVE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">41</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -771,7 +771,7 @@
   </Placemark>
   <Placemark>
 	<name>SHALER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">42</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -796,7 +796,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST DEER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">43</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -821,7 +821,7 @@
   </Placemark>
   <Placemark>
 	<name>WILKINSBURG</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">54</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -846,7 +846,7 @@
   </Placemark>
   <Placemark>
 	<name>PLUM</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">64</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -871,7 +871,7 @@
   </Placemark>
   <Placemark>
 	<name>BRADDOCK HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">65</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -896,7 +896,7 @@
   </Placemark>
   <Placemark>
 	<name>RANKIN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">66</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -921,7 +921,7 @@
   </Placemark>
   <Placemark>
 	<name>SWISSVALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">68</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -946,7 +946,7 @@
   </Placemark>
   <Placemark>
 	<name>EDGEWOOD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">69</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -971,7 +971,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST VIEW</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">76</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -996,7 +996,7 @@
   </Placemark>
   <Placemark>
 	<name>CHURCHILL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">77</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1021,7 +1021,7 @@
   </Placemark>
   <Placemark>
 	<name>MONROEVILLE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">78</SimpleData>
 		<SimpleData name="TYPE">MUNICIPALI</SimpleData>
@@ -1046,7 +1046,7 @@
   </Placemark>
   <Placemark>
 	<name>CHALFANT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">82</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1071,7 +1071,7 @@
   </Placemark>
   <Placemark>
 	<name>ROSS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">91</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -1096,7 +1096,7 @@
   </Placemark>
   <Placemark>
 	<name>BRACKENRIDGE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">92</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1121,7 +1121,7 @@
   </Placemark>
   <Placemark>
 	<name>SPRINGDALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">93</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -1146,7 +1146,7 @@
   </Placemark>
   <Placemark>
 	<name>HEIDELBERG</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">106</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1171,7 +1171,7 @@
   </Placemark>
   <Placemark>
 	<name>ETNA</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">107</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1196,7 +1196,7 @@
   </Placemark>
   <Placemark>
 	<name>VERONA</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">108</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1221,7 +1221,7 @@
   </Placemark>
   <Placemark>
 	<name>PENNSBURY VILLAGE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">109</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1246,7 +1246,7 @@
   </Placemark>
   <Placemark>
 	<name>CLAIRTON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">111</SimpleData>
 		<SimpleData name="TYPE">CITY</SimpleData>
@@ -1271,7 +1271,7 @@
   </Placemark>
   <Placemark>
 	<name>SPRINGDALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">117</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1296,7 +1296,7 @@
   </Placemark>
   <Placemark>
 	<name>OAKMONT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">119</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1321,7 +1321,7 @@
   </Placemark>
   <Placemark>
 	<name>BLAWNOX</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">120</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1346,7 +1346,7 @@
   </Placemark>
   <Placemark>
 	<name>PLEASANT HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">122</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1371,7 +1371,7 @@
   </Placemark>
   <Placemark>
 	<name>SHARPSBURG</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">130</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1396,7 +1396,7 @@
   </Placemark>
   <Placemark>
 	<name>WILKINS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4132</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -1421,7 +1421,7 @@
   </Placemark>
   <Placemark>
 	<name>TURTLE CREEK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4133</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1446,7 +1446,7 @@
   </Placemark>
   <Placemark>
 	<name>BRADDOCK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4134</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1471,7 +1471,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST PITTSBURGH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4135</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1496,7 +1496,7 @@
   </Placemark>
   <Placemark>
 	<name>NORTH BRADDOCK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4136</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1521,7 +1521,7 @@
   </Placemark>
   <Placemark>
 	<name>WILMERDING</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4138</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1546,7 +1546,7 @@
   </Placemark>
   <Placemark>
 	<name>WALL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4151</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1571,7 +1571,7 @@
   </Placemark>
   <Placemark>
 	<name>VERSAILLES</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">4152</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1596,7 +1596,7 @@
   </Placemark>
   <Placemark>
 	<name>DRAVOSBURG</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5337</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1621,7 +1621,7 @@
   </Placemark>
   <Placemark>
 	<name>MCKEESPORT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5344</SimpleData>
 		<SimpleData name="TYPE">CITY</SimpleData>
@@ -1646,7 +1646,7 @@
   </Placemark>
   <Placemark>
 	<name>PORT VUE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5356</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1671,7 +1671,7 @@
   </Placemark>
   <Placemark>
 	<name>GLASSPORT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5367</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1696,7 +1696,7 @@
   </Placemark>
   <Placemark>
 	<name>DUQUESNE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5373</SimpleData>
 		<SimpleData name="TYPE">CITY</SimpleData>
@@ -1721,7 +1721,7 @@
   </Placemark>
   <Placemark>
 	<name>LIBERTY</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">5736</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1746,7 +1746,7 @@
   </Placemark>
   <Placemark>
 	<name>LINCOLN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">6153</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1771,7 +1771,7 @@
   </Placemark>
   <Placemark>
 	<name>ELIZABETH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">6942</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -1796,7 +1796,7 @@
   </Placemark>
   <Placemark>
 	<name>ELIZABETH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">6959</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1821,7 +1821,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST ELIZABETH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">6983</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1846,7 +1846,7 @@
   </Placemark>
   <Placemark>
 	<name>SOUTH PARK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">7372</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -1871,7 +1871,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST MIFFLIN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">9365</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1896,7 +1896,7 @@
   </Placemark>
   <Placemark>
 	<name>MOUNT OLIVER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">9400</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1921,7 +1921,7 @@
   </Placemark>
   <Placemark>
 	<name>WHITAKER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">9428</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1946,7 +1946,7 @@
   </Placemark>
   <Placemark>
 	<name>HOMESTEAD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">10241</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1971,7 +1971,7 @@
   </Placemark>
   <Placemark>
 	<name>MUNHALL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">10640</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -1996,7 +1996,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST HOMESTEAD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">10659</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2021,7 +2021,7 @@
   </Placemark>
   <Placemark>
 	<name>GREEN TREE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">11467</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2046,7 +2046,7 @@
   </Placemark>
   <Placemark>
 	<name>DORMONT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">11861</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2071,7 +2071,7 @@
   </Placemark>
   <Placemark>
 	<name>BALDWIN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">11882</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2096,7 +2096,7 @@
   </Placemark>
   <Placemark>
 	<name>BRENTWOOD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">12691</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2121,7 +2121,7 @@
   </Placemark>
   <Placemark>
 	<name>BALDWIN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13439</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2146,7 +2146,7 @@
   </Placemark>
   <Placemark>
 	<name>WHITEHALL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13848</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2203,7 +2203,7 @@
   </Placemark>
   <Placemark>
 	<name>CASTLE SHANNON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13872</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2228,7 +2228,7 @@
   </Placemark>
   <Placemark>
 	<name>KENNEDY</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">13877</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2253,7 +2253,7 @@
   </Placemark>
   <Placemark>
 	<name>BRIDGEVILLE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14248</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2278,7 +2278,7 @@
   </Placemark>
   <Placemark>
 	<name>UPPER ST. CLAIR</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14256</SimpleData>
 		<SimpleData name="TYPE">MUNICIPALI</SimpleData>
@@ -2303,7 +2303,7 @@
   </Placemark>
   <Placemark>
 	<name>INGRAM</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14282</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2328,7 +2328,7 @@
   </Placemark>
   <Placemark>
 	<name>STOWE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14291</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2353,7 +2353,7 @@
   </Placemark>
   <Placemark>
 	<name>MCKEES ROCKS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14306</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2378,7 +2378,7 @@
   </Placemark>
   <Placemark>
 	<name>THORNBURG</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14642</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2403,7 +2403,7 @@
   </Placemark>
   <Placemark>
 	<name>CRAFTON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14645</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2428,7 +2428,7 @@
   </Placemark>
   <Placemark>
 	<name>ROSSLYN FARMS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14655</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2453,7 +2453,7 @@
   </Placemark>
   <Placemark>
 	<name>SCOTT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14661</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2478,7 +2478,7 @@
   </Placemark>
   <Placemark>
 	<name>CARNEGIE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14664</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2503,7 +2503,7 @@
   </Placemark>
   <Placemark>
 	<name>CRESCENT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14678</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2528,7 +2528,7 @@
   </Placemark>
   <Placemark>
 	<name>MOON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14692</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2553,7 +2553,7 @@
   </Placemark>
   <Placemark>
 	<name>CORAOPOLIS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14694</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2578,7 +2578,7 @@
   </Placemark>
   <Placemark>
 	<name>ROBINSON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">14697</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2603,7 +2603,7 @@
   </Placemark>
   <Placemark>
 	<name>OAKDALE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">15470</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2628,7 +2628,7 @@
   </Placemark>
   <Placemark>
 	<name>MCDONALD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">15516</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2653,7 +2653,7 @@
   </Placemark>
   <Placemark>
 	<name>SOUTH FAYETTE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">15520</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2678,7 +2678,7 @@
   </Placemark>
   <Placemark>
 	<name>NORTH FAYETTE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">15581</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2703,7 +2703,7 @@
   </Placemark>
   <Placemark>
 	<name>FINDLAY</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">16275</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2728,7 +2728,7 @@
   </Placemark>
   <Placemark>
 	<name>FORWARD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">17073</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2753,7 +2753,7 @@
   </Placemark>
   <Placemark>
 	<name>SOUTH VERSAILLES</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">17476</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2778,7 +2778,7 @@
   </Placemark>
   <Placemark>
 	<name>WHITE OAK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">18278</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2803,7 +2803,7 @@
   </Placemark>
   <Placemark>
 	<name>NORTH VERSAILLES</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">18673</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2828,7 +2828,7 @@
   </Placemark>
   <Placemark>
 	<name>PINE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">19071</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2853,7 +2853,7 @@
   </Placemark>
   <Placemark>
 	<name>MARSHALL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">19479</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2878,7 +2878,7 @@
   </Placemark>
   <Placemark>
 	<name>BRADFORD WOODS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">19482</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -2903,7 +2903,7 @@
   </Placemark>
   <Placemark>
 	<name>ALEPPO</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">21872</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2928,7 +2928,7 @@
   </Placemark>
   <Placemark>
 	<name>COLLIER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">22273</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2953,7 +2953,7 @@
   </Placemark>
   <Placemark>
 	<name>HAMPTON</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">24280</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -2978,7 +2978,7 @@
   </Placemark>
   <Placemark>
 	<name>PITCAIRN</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">25480</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3003,7 +3003,7 @@
   </Placemark>
   <Placemark>
 	<name>INDIANA</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">26689</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -3028,7 +3028,7 @@
   </Placemark>
   <Placemark>
 	<name>O'HARA</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">29481</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -3053,7 +3053,7 @@
   </Placemark>
   <Placemark>
 	<name>ASPINWALL</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">29482</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3078,7 +3078,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST DEER</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">30282</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -3103,7 +3103,7 @@
   </Placemark>
   <Placemark>
 	<name>JEFFERSON HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">30285</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3128,7 +3128,7 @@
   </Placemark>
   <Placemark>
 	<name>BELLEVUE</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31086</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3153,7 +3153,7 @@
   </Placemark>
   <Placemark>
 	<name>BETHEL PARK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31497</SimpleData>
 		<SimpleData name="TYPE">MUNICIPALI</SimpleData>
@@ -3178,7 +3178,7 @@
   </Placemark>
   <Placemark>
 	<name>TRAFFORD</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31503</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3203,7 +3203,7 @@
   </Placemark>
   <Placemark>
 	<name>KILBUCK</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31505</SimpleData>
 		<SimpleData name="TYPE">TOWNSHIP</SimpleData>
@@ -3228,7 +3228,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST MCKEESPORT</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31510</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
@@ -3253,7 +3253,7 @@
   </Placemark>
   <Placemark>
 	<name>PITTSBURGH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">31908</SimpleData>
 		<SimpleData name="TYPE">CITY</SimpleData>
@@ -3276,7 +3276,7 @@
   </Placemark>
   <Placemark>
 	<name>PENN HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">35908</SimpleData>
 		<SimpleData name="TYPE">MUNICIPALI</SimpleData>
@@ -3301,7 +3301,7 @@
   </Placemark>
   <Placemark>
 	<name>FOREST HILLS</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>7f0000ff</color><colorMode>normal</colorMode><fill>1</fill></PolyStyle></Style>
+	<styleUrl>#Municipality</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
 		<SimpleData name="OBJECTID">36708</SimpleData>
 		<SimpleData name="TYPE">BOROUGH</SimpleData>
